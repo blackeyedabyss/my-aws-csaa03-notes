@@ -8,3 +8,6 @@
 
 ## Acknowledgements
 - I have used https://learn.cantrill.io/ as my primary resource for learning, based on recommendation of a lot of people out on the Interwebz, especially Reddit. I would reccomend it highly too now, as Adrian (the author) not only covers the exam, but dives deep into the what's, why's and how's of AWS, which I love. 
+
+## How to's:
+- In order to access the notes, open the notebook in Microsoft OneNote 2016 or newer, as I've made these notes using MS ON 2016. :)
