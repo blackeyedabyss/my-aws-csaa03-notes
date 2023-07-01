@@ -11,3 +11,4 @@
 
 ## How to's:
 - In order to access the notes, open the notebook in Microsoft OneNote 2016 or newer, as I've made these notes using MS ON 2016. :)
+- Best viewed in OneNote's Black Theme. (Change your theme to the dark mode.)
